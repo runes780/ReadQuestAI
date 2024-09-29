@@ -1,0 +1,3 @@
+# Mass grave of at least 65 people found in Libya, UN migration agency says
+
+<p>International Organization for Migration believes those discovered ‘died in process of being smuggled through the desert’</p><p>A mass grave containing at least 65 bodies has been discovered in south-west <a href="https://www.theguardian.com/world/libya">Libya</a> this week, the UN migration agency said on Friday.</p><p>A spokesperson for the International Organization for Migration (IOM) said the mass grave was uncovered by Libyan security forces.</p> <a href="https://www.theguardian.com/world/2024/mar/22/mass-grave-libya-un-migration-agency">Continue reading...</a>
