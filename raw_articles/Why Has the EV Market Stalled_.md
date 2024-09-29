@@ -1,0 +1,44 @@
+# Why Has the EV Market Stalled_
+
+<div>
+
+
+
+
+	<div>
+				<img alt="" src="https://hbr.org/resources/images/article_assets/2024/03/March24_21_614974836.jpg" title="" />
+
+
+
+		<div>
+				<span>Igor-Kardasov/Getty Images</span>
+		</div>
+
+
+	</div>
+
+
+
+
+	
+
+
+
+
+	<div>
+		<span>Summary.&nbsp;&nbsp;&nbsp;</span>
+		<span><p>Surprisingly, the EV market has stalled in recent years. Why? Because the market has reached a difficult point in the technology-adoption lifecycle. Specifically, automakers and policymakers alike can no longer make plans based on what early adopters of EVs want. Instead, if they want to boost sales and reach a much broader segment of the market, they&#8217;re going to have to cater to a different set of interests and concerns &#8212; which will probably mean offering consumers more hybrids and plug-ins as a bridge to an all-electric future.</p>
+</span>
+	</div>
+
+					<div>
+						<div>
+	
+						</div>
+
+						
+								<p>A couple of years ago, we seemed to be hurtling toward an electric-car future. Tesla had reached a trillion-dollar market cap; Hertz had signed a $4 billion deal with Tesla to supply cars for its rental fleet; the Biden Administration had announced plans to make EVs comprise 50% of all new vehicles sold by 2030; and GM had committed itself to achieving 100% EV sales by 2035.</p>
+						
+<!-- citation -->
+					</div>
+				</div>

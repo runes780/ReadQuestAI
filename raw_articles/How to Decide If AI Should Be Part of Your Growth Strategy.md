@@ -1,0 +1,46 @@
+# How to Decide If AI Should Be Part of Your Growth Strategy
+
+<div>
+
+
+
+
+	<div>
+				<img alt="" src="https://hbr.org/resources/images/article_assets/2024/03/Mar24_20_CarlGodfrey.jpg" title="" />
+
+
+
+		<div>
+				<span>Illustration by Carl Godfrey</span>
+		</div>
+
+
+	</div>
+
+
+
+
+	
+
+
+
+
+	<div>
+		<span>Summary.&nbsp;&nbsp;&nbsp;</span>
+		<span><p>Should your company be betting on AI as a growth strategy now? How do you distinguish genuine opportunities from speculative fads and make an informed decision on whether AI is your next big bet? In this article, the authors cover five steps to help your company answer this question. After thoughtful analysis, your decision ultimately boils down to this: Does the current state of AI align with your business strategy? If it does, the investment in this tech wave could propel your business to new heights.</p>
+</span>
+	</div>
+
+					<div>
+						<div>
+	
+						</div>
+
+						
+								<p>In 1998, a year after his return to Apple, Steve Jobs <a href="https://www.mckinsey.com/~/media/McKinsey/Email/Classics/2019/2019_2_classic.html">stated</a> that his long-term strategy was to “wait for the next big thing.” In his characteristically terse response, the visionary innovator identified the core of any growth strategy — follow where the technology is going, ideally before your competitors do. As science fiction writer Frederik Pohl <a href="https://www.reddit.com/r/sciencefiction/comments/gnyksx/a_good_science_fiction_story_should_be_able_to/">said</a>, “The challenge is to predict not the automobile but the traffic jam.”</p>
+						
+<!-- citation -->
+					</div>
+				</div>
+
+				<br /><hr /><div>获取更多RSS：<br /><a href="https://feedx.net" style="color: orange;" target="_blank">https://feedx.net</a> <br /><a href="https://feedx.run" style="color: orange;" target="_blank">https://feedx.run</a><br /></div>

@@ -1,0 +1,3 @@
+# Senegal heads to the polls overshadowed by deadly protests
+
+<p>Country’s reputation as one of Africa’s model democracies under threat after weeks of violence</p><p>Senegal heads to the polls on Sunday after weeks of chaos, violence and uncertainty prompted fears that democracy had been fatally undermined in one of west Africa’s most stable countries.</p><p>Analysts say the presidential election is the most wide open in Senegal since it secured independence from France more than 60 years ago.</p> <a href="https://www.theguardian.com/world/2024/mar/23/senegal-heads-to-the-polls-overshadowed-by-deadly-protests">Continue reading...</a>

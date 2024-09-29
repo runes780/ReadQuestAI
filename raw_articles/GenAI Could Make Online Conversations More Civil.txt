@@ -1,0 +1,44 @@
+<div>
+
+
+
+
+	<div>
+				<img alt="" src="https://hbr.org/resources/images/article_assets/2024/03/March24_20_1370535640_172802354.jpg" title="" />
+
+
+
+		<div>
+				<span>HBR Staff; curtoicurto/ Yagi Studio/ Getty Images; Unsplash</span>
+		</div>
+
+
+	</div>
+
+
+
+
+	
+
+
+
+
+	<div>
+		<span>Summary.&nbsp;&nbsp;&nbsp;</span>
+		<span><p>Online conversations are famously fraught, which creates challenges for people communicating on online platforms, including those used for workplace collaboration. New research suggests that these platforms might want to consider using generative AI to help cool down heated discussions and prepare employees for difficult conversations. The author discusses research that he and his colleagues have conducted on this topic and discusses the ways in which the community platform Nextdoor has started using AI to mediate conflict among its members.</p>
+</span>
+	</div>
+
+					<div>
+						<div>
+	
+						</div>
+
+						
+								<p>Generative AI must seem like a superweapon to malicious actors who aim to sow discord online. Deep-fake videos impersonate public figures with unprecedented fidelity, swarms of conversational chatbots stoke conflict via personalized appeals, and efforts to detect and mitigate such campaigns remain in their infancy.</p>
+						
+<!-- citation -->
+					</div>
+				</div>
+
+				<br /><hr /><div>获取更多RSS：<br /><a href="https://feedx.net" style="color: orange;" target="_blank">https://feedx.net</a> <br /><a href="https://feedx.run" style="color: orange;" target="_blank">https://feedx.run</a><br /></div>

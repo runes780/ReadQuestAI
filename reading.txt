@@ -1,0 +1,27 @@
+import os
+import feedparser
+import openai
+
+# Set up OpenAI API key
+openai.api_key = "your_openai_api_key"
+
+# Parse RSS feed
+feed = feedparser.parse("http://example.com/rss")
+
+# Loop through each item in the feed
+for item in feed.entries:
+    # Construct prompt from RSS item title and summary
+    prompt = f"Title: {item.title}\nSummary: {item.summary}"
+
+    # Call OpenAI API with the prompt
+    response = openai.Completion.create(
+        engine="text-davinci-002",
+        prompt=prompt,
+        max_tokens=1024,
+        n=1,
+        stop=None,
+        temperature=0.5,
+    )
+
+    # Print the response
+    print(response.choices[0].text)

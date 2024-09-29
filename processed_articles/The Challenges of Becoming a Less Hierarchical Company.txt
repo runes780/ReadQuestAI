@@ -1,0 +1,35 @@
+In today's fast-paced business environment, many organizations are shifting towards flatter, less hierarchical structures in order to foster collaboration, enhance agility, and empower employees. However, a recent study conducted at a food processing company in Colombia sheds light on the challenges that companies may encounter when attempting to transition to a new organizational model. The research, led by the company's CEO and a team of experts, identifies various structural and interpersonal factors that leaders should be mindful of as they embark on restructuring initiatives.
+
+Last year, Meta's CEO Mark Zuckerberg declared 2023 as the "Year of Efficiency" in a company-wide communication, emphasizing the benefits of a flatter organizational hierarchy. Zuckerberg emphasized that reducing layers in a hierarchy can lead to quicker decision-making processes and smoother information flow, as excessive levels of hierarchy tend to introduce delays and foster risk aversion within the organization.
+
+As companies strive to adapt to the evolving demands of the business landscape, understanding and navigating these structural and human dynamics become crucial for successful organizational transformation.
+
+Questions:
+
+1. What are some reasons why organizations are moving towards flatter structures?
+   A) To increase hierarchy and control
+   B) To decrease collaboration and agility
+   C) To empower employees and foster collaboration
+   D) To slow down decision-making processes
+   Correct Answer: C) To empower employees and foster collaboration
+
+2. According to Mark Zuckerberg, what did he label 2023 as?
+   A) The Year of Innovation
+   B) The Year of Growth
+   C) The Year of Efficiency
+   D) The Year of Expansion
+   Correct Answer: C) The Year of Efficiency
+
+3. Why does Zuckerberg believe that "flatter is faster"?
+   A) Because it increases latency
+   B) Because it decreases risk aversion
+   C) Because it hinders information flow
+   D) Because it adds layers to hierarchy
+   Correct Answer: B) Because it decreases risk aversion
+
+4. What key challenges did the research at the Colombian food processing company identify in transitioning to a flatter structure?
+   A) Structural and people dynamics
+   B) Lack of leadership support
+   C) Excessive hierarchy
+   D) Limited employee empowerment
+   Correct Answer: A) Structural and people dynamics
